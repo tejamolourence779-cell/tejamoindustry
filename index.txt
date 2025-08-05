@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>HANDS ON 1</title>
+</head>
+<body>
+  <h1><center>STAND ALONE SENIOR HIGHSCHOOL WITHIN TAGUIG INTEGRATED SCHOOL</center></h1>
+  <hr color="black" "size"5" "width"40">
+  <h1><center> <a href="">HOME</a>&nbsp&nbsp&nbsp&nbsp<a href="">ACTIVITY</a>&nbsp&nbsp&nbsp&nbsp<a href="">GALLERY</a></center></h1>
+  <hr color="black" "size"5" "width"40">
+  <br><br>
+  <img src="/storage/emulated/0/DCIM/tejamo2007/pic9.png" "/"height="30%" width="30%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="/storage/emulated/0/DCIM/tejamo2007/pic10.jpg"/"height="30%" width="30%">&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="/storage/emulated/0/DCIM/tejamo2007/pic7 .jpeg"/"height"=30%" width="30%">
+  <br><br><br><br><br>
+  <center><br>DISCRIPTION<center></center>
+  <br>
+  <center> <font face="jokerman">Stand-Alone Senior High School within Taguig Integrated School is a public secondary institution in Taguig City, Philippines, operating exclusively for Grades 11–12. It is part of Taguig Integrated School (TIS) but functions independently as a stand-alone senior high school.</font></center>
+    <br><br><br>
+    <hr color="black" "size"5" "width"40">
+    <br>
+    <center> <font face="jokerman">TEJAMO LOURENCE A</font></center>  
+    <center> <font face="jokerman">11-INDUSTRY<font></center>
